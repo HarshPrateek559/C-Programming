@@ -1,9 +1,5 @@
 /*
-This program is an implementation of Linked List data structure in C language.
- 
-Linked List: It is a linear collection of data elements whose order is not given by their physical placement in memory. Instead, each element points to the next. It is a data structure consisting of a collection of nodes which together represent a sequence.
-
-Although linked list takes twice the memory size of an array, it has much faster execution time for larger lists and it is much easier to add new nodes in the list when compared to arrays.
+This is the simplified explanation of the linked list.
 */
 
 
